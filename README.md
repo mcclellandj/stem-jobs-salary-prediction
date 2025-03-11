@@ -1,2 +1,3 @@
-# pred_remuneration_stem
+### Predicting annual remuneration for STEM professionals
+
 Building a model to predict a person's remuneration in the STEM sector using big data tools
