@@ -7,7 +7,7 @@
   
 ### Analysis approach
 
-Using PySpark, PySpark SQL and Python where appropriate in a Jupyter Notebook:
+Using PySpark, PySpark SQL and Python where appropriate in a Jupyter Notebook to:
 - Create a Spark session on an available Cluster and upload the data onto Hadoop Distributed File System
 - Convert the data into a dataframe ahead of analysis and undertake a data audit and exploratory data analysis to gain insights on the main features
 - Clean and transform the data as required and build new features
@@ -17,7 +17,7 @@ Using PySpark, PySpark SQL and Python where appropriate in a Jupyter Notebook:
 
 ### Results/findings
 
-- The best model was a Gradient Boosted Trees regressor model which explained 64% of the variance and had a high RMSE
-- Re-running the model over various numbers of features (10, 20, 30,...) using feature importance rankings and tuning the hyperparameters of each using grid search and Spark ML CrossValidator increased the explained variance by 0.5 percentage points
+- The best model was a Gradient Boosted Trees (GBT) regressor model which explained 64% of the variance and had a high RMSE
+- To improve the model tried re-training the GBT regressor over various numbers of features (10, 20, 30,...) using feature importance rankings and tuning the hyperparameters of each using grid search and Spark ML CrossValidator. This increased the explained variance by 0.5 percentage points
 - The top features in terms of feature importance were generally intuitive. For example 'years of experience', 'years at company', job titles involving 'software engineering', place of work being 'Google', tag of 'AI/ML', holding a 'PhD' are all significant drivers of higher remuneration. However, a counter intuitive finding was the work 'location' outside of California having a higher feature ranking than 'location' of California. The features of 'race' and 'gender' are quite low in the feature importance rankings.
 
