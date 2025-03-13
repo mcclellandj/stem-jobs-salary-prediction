@@ -15,6 +15,8 @@ Using PySpark, PySpark SQL and Python where appropriate in a Jupyter Notebook to
 5. Create pipelines to find the best predictive model using different algorithms, different number of input features and hyperparameter tuning
 6. Contemplate what extra steps could make the final model better
 
+cf. code 'stem-jobs-salary-prediction.ipynb'
+
 ### Results/findings
 
 - The best model was a Gradient Boosted Trees (GBT) regressor model which explained 64% of the variance and had a high RMSE
