@@ -1,5 +1,36 @@
 ## Predicting annual remuneration for STEM professionals
 
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="images/STEM1.png" width="200">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="images/STEM3.png" width="200">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="images/STEM2.png" width="200">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="images/STEM4.png" width="200">
+      </figure>
+    </td>
+  </tr>
+    <tr>
+    <th>Mean salary by experience</th>
+    <th>Mean salary by company</th>
+    <th>Mean salary by year</th>
+    <th>Feature importance</th>
+  </tr>
+</table>
+
 ### Project objectives
 
 1. Build a model to predict a person's expected remuneration for any role in the STEM sector based on attribute profiles of the role and the person
