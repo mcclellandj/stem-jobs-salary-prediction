@@ -1,33 +1,23 @@
-## Predicting annual remuneration for STEM professionals
-
-<table>
+<table border="1">
   <tr>
-    <td>
-      <figure>
-        <img src="images/STEM1.png" width="200">
-      </figure>
-    </td>
-    <td>
-      <figure>
-        <img src="images/STEM3.png" width="200">
-      </figure>
-    </td>
-    <td>
-      <figure>
-        <img src="images/STEM2.png" width="200">
-      </figure>
-    </td>
-    <td>
-      <figure>
-        <img src="images/STEM4.png" width="200">
-      </figure>
-    </td>
+    <td>1. Ankle boots</td>
+    <td>2. Bags</td>
   </tr>
-    <tr>
-    <th>Mean salary by experience</th>
-    <th>Mean salary by company</th>
-    <th>Mean salary by year</th>
-    <th>Feature importance</th>
+  <tr>
+    <td>3. Coats</td>
+    <td>4. Dresses</td>
+  </tr>
+  <tr>
+    <td>5. Pullovers</td>
+    <td>6. Sandals</td>
+  </tr>
+  <tr>
+    <td>7. Shirts</td>
+    <td>8. Sneakers</td>
+  </tr>
+  <tr>
+    <td>9. T-shirts/tops</td>
+    <td>10. Trousers</td>
   </tr>
 </table>
 
