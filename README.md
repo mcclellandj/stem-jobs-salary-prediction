@@ -1,36 +1,36 @@
 ## Predicting annual remuneration for STEM professionals
 
-<table border="1" style="width: 100%; table-layout: fixed; text-align: center;">
-  <tr>
-    <td style="width: 50%;">
-      <figure>
-        <img src="images/STEM1.png" style="width: 90%;">
-        <figcaption>Mean salary by experience</figcaption>
-      </figure>
-    </td>
-    <td style="width: 50%;">
-      <figure>
-        <img src="images/STEM3.png" style="width: 90%;">
-        <figcaption>Mean salary by company</figcaption>
-      </figure>
-    </td>
-  </tr>
-  <tr>
-    <td style="width: 50%;">
-      <figure>
-        <img src="images/STEM2.png" style="width: 90%;">
-        <figcaption>Mean salary by year</figcaption>
-      </figure>
-    </td>
-    <td style="width: 50%;">
-      <figure>
-        <img src="images/STEM4.png" style="width: 90%;">
-        <figcaption>Feature importance</figcaption>
-      </figure>
-    </td>
-  </tr>
-</table>
-
+<table>
+ <table border="1">
+<tr>
+     <td>
+       <figure>
+         <img src="images/STEM1.png" width="200">
+       </figure>
+     </td>
+     <td>
+       <figure>
+         <img src="images/STEM3.png" width="200">
+       </figure>
+     </td>
+     <td>
+       <figure>
+         <img src="images/STEM2.png" width="200">
+       </figure>
+     </td>
+     <td>
+       <figure>
+         <img src="images/STEM4.png" width="200">
+       </figure>
+     </td>
+   </tr>
+   <tr>
+     <th>Mean salary by experience</th>
+     <th>Mean salary by company</th>
+     <th>Mean salary by year</th>
+     <th>Feature importance</th>
+   <tr>
+ </table>
 
 ### Project objectives
 
