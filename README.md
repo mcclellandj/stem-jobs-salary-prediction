@@ -1,14 +1,14 @@
 ## Predicting annual remuneration for STEM professionals
 
-<table border="1" style="width: 100%; text-align: center;">
+<table border="1" style="width: 100%; table-layout: fixed; text-align: center;">
   <tr>
-    <td>
+    <td style="width: 50%;">
       <figure>
         <img src="images/STEM1.png" style="width: 90%;">
         <figcaption>Mean salary by experience</figcaption>
       </figure>
     </td>
-    <td>
+    <td style="width: 50%;">
       <figure>
         <img src="images/STEM3.png" style="width: 90%;">
         <figcaption>Mean salary by company</figcaption>
@@ -16,13 +16,13 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="width: 50%;">
       <figure>
         <img src="images/STEM2.png" style="width: 90%;">
         <figcaption>Mean salary by year</figcaption>
       </figure>
     </td>
-    <td>
+    <td style="width: 50%;">
       <figure>
         <img src="images/STEM4.png" style="width: 90%;">
         <figcaption>Feature importance</figcaption>
@@ -30,6 +30,7 @@
     </td>
   </tr>
 </table>
+
 
 ### Project objectives
 
