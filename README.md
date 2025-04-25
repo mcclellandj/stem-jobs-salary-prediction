@@ -1,65 +1,35 @@
 ## Predicting annual remuneration for STEM professionals
 
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      margin: 0;
-      overflow-y: auto; /* allow scrolling if needed, but no forced scrollbar */
-    }
-    table {
-      width: 100%;
-      table-layout: fixed;
-      border-collapse: collapse;
-      text-align: center;
-    }
-    td, th {
-      width: 25%;
-      padding: 10px;
-    }
-    img {
-      width: 100%; /* Makes images responsive within the cell */
-      max-width: 200px; /* Prevents them from growing too big */
-      height: auto;
-    }
-  </style>
-</head>
-<body>
-
-<table border="1">
+<table border="1" style="width: 100%; table-layout: fixed; border-collapse: collapse; text-align: center;">
   <tr>
-    <td>
+    <td style="width: 25%; padding: 10px;">
       <figure>
-        <img src="images/STEM1.png" alt="STEM1">
+        <img src="images/STEM1.png" style="width: 100%; max-width: 200px; height: auto;" alt="STEM1">
       </figure>
     </td>
-    <td>
+    <td style="width: 25%; padding: 10px;">
       <figure>
-        <img src="images/STEM3.png" alt="STEM3">
+        <img src="images/STEM3.png" style="width: 100%; max-width: 200px; height: auto;" alt="STEM3">
       </figure>
     </td>
-    <td>
+    <td style="width: 25%; padding: 10px;">
       <figure>
-        <img src="images/STEM2.png" alt="STEM2">
+        <img src="images/STEM2.png" style="width: 100%; max-width: 200px; height: auto;" alt="STEM2">
       </figure>
     </td>
-    <td>
+    <td style="width: 25%; padding: 10px;">
       <figure>
-        <img src="images/STEM4.png" alt="STEM4">
+        <img src="images/STEM4.png" style="width: 100%; max-width: 200px; height: auto;" alt="STEM4">
       </figure>
     </td>
   </tr>
   <tr>
-    <th>Mean salary by experience</th>
-    <th>Mean salary by company</th>
-    <th>Mean salary by year</th>
-    <th>Feature importance</th>
+    <th style="width: 25%; padding: 10px;">Mean salary by experience</th>
+    <th style="width: 25%; padding: 10px;">Mean salary by company</th>
+    <th style="width: 25%; padding: 10px;">Mean salary by year</th>
+    <th style="width: 25%; padding: 10px;">Feature importance</th>
   </tr>
 </table>
-
-</body>
-</html>
 
 ### Project objectives
 
