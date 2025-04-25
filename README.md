@@ -1,3 +1,5 @@
+## Predicting annual remuneration for STEM professionals
+
 <td>
        <figure>
          <img src="images/STEM1.png" width="200">
