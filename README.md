@@ -1,5 +1,7 @@
 ## Predicting annual remuneration for STEM professionals
 
+<table>
+ <table border="1">
 <tr>
      <td>
        <figure>
