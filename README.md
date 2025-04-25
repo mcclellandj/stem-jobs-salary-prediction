@@ -18,8 +18,6 @@
          <img src="images/STEM4.png" width="200">
        </figure>
      </td>
-     <td>7. Shirts</td>
-     <td>8. Sneakers</td>
    </tr>
      <tr>
      <th>Mean salary by experience</th>
