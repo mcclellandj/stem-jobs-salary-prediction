@@ -1,6 +1,7 @@
 ## Predicting annual remuneration for STEM professionals
 
-<td>
+<tr>
+     <td>
        <figure>
          <img src="images/STEM1.png" width="200">
        </figure>
@@ -21,7 +22,7 @@
        </figure>
      </td>
    </tr>
-     <tr>
+   <tr>
      <th>Mean salary by experience</th>
      <th>Mean salary by company</th>
      <th>Mean salary by year</th>
