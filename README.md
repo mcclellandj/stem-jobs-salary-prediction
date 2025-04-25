@@ -27,9 +27,6 @@
      <th>Mean salary by year</th>
      <th>Feature importance</th>
    <tr>
-     <td>9. T-shirts/tops</td>
-     <td>10. Trousers</td>
-   </tr>
  </table>
 
 ### Project objectives
