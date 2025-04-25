@@ -1,6 +1,6 @@
 ## Predicting annual remuneration for STEM professionals
 
-<table border="1" style="width: 100%; table-layout: fixed; border-collapse: collapse; text-align: center;">
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse; text-align: center;">
   <tr>
     <td style="width: 25%; padding: 10px;">
       <figure>
