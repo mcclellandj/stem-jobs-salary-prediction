@@ -24,7 +24,7 @@
     </td>
   </tr>
   <tr>
-    <th style="width: 25%; padding: 10px;">Mean salary by experience</th>
+    <th style="width: 25%;">Mean salary by experience</th>
     <th style="width: 25%; padding: 10px;">Mean salary by company</th>
     <th style="width: 25%; padding: 10px;">Mean salary by year</th>
     <th style="width: 25%; padding: 10px;">Feature importance</th>
