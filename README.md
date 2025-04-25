@@ -1,36 +1,65 @@
 ## Predicting annual remuneration for STEM professionals
 
-<table>
- <table border="1">
-<tr>
-     <td>
-       <figure>
-         <img src="images/STEM1.png" width="200">
-       </figure>
-     </td>
-     <td>
-       <figure>
-         <img src="images/STEM3.png" width="200">
-       </figure>
-     </td>
-     <td>
-       <figure>
-         <img src="images/STEM2.png" width="200">
-       </figure>
-     </td>
-     <td>
-       <figure>
-         <img src="images/STEM4.png" width="200">
-       </figure>
-     </td>
-   </tr>
-   <tr>
-     <th>Mean salary by experience</th>
-     <th>Mean salary by company</th>
-     <th>Mean salary by year</th>
-     <th>Feature importance</th>
-   <tr>
- </table>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      margin: 0;
+      overflow-y: auto; /* allow scrolling if needed, but no forced scrollbar */
+    }
+    table {
+      width: 100%;
+      table-layout: fixed;
+      border-collapse: collapse;
+      text-align: center;
+    }
+    td, th {
+      width: 25%;
+      padding: 10px;
+    }
+    img {
+      width: 100%; /* Makes images responsive within the cell */
+      max-width: 200px; /* Prevents them from growing too big */
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+
+<table border="1">
+  <tr>
+    <td>
+      <figure>
+        <img src="images/STEM1.png" alt="STEM1">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="images/STEM3.png" alt="STEM3">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="images/STEM2.png" alt="STEM2">
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="images/STEM4.png" alt="STEM4">
+      </figure>
+    </td>
+  </tr>
+  <tr>
+    <th>Mean salary by experience</th>
+    <th>Mean salary by company</th>
+    <th>Mean salary by year</th>
+    <th>Feature importance</th>
+  </tr>
+</table>
+
+</body>
+</html>
 
 ### Project objectives
 
